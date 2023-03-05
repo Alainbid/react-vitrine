@@ -16,6 +16,7 @@ const Project1 = () => {
         <Project projectNumber={0} />
         <Button left={"/"} right={"/projet2"} />
       </div>
+      <div className="random-circle"></div>
     </main>
   );
 };
